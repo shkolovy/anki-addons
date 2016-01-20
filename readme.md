@@ -1,0 +1,1 @@
+![ScreenShot](https://raw.github.com/artemdude/anki-addons/master/screenshots/1.png)
