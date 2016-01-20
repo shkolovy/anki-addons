@@ -1,1 +1,1 @@
-![ScreenShot](https://raw.github.com/artemdude/anki-addons/master/screenshots/1.png)
+![ScreenShot](https://raw.githubusercontent.com/shkolovy/anki-addons/master/screenshots/1.png)
